@@ -2,16 +2,14 @@ export const projects =  [
  {
     title: "To do list",
     subtitle: "List",
-    description:
-      "",
+    description: "Lista de tareas para ordenar de acuerdo a los objetivos propuestos",
     image: "./project-1.gif",
     link: "https://to-do-list-juancmb27.vercel.app/",
   },
   {
     title: "Pokedex",
     subtitle: "Poke",
-    description:
-      "",
+    description: "Aca se pueden identificar todos los pokemones y sus evoluciones",
     image: "./project-2.gif",
     link: "https://b12-pokedex.netlify.app/",
   },
@@ -19,7 +17,7 @@ export const projects =  [
     title: "Web page",
     subtitle: "Rafa",
     description:
-      "",
+      "Web page destinada a Rafael Nadal, deportista y ganador en todos los ambitos",
     image: "./project-3.gif",
     link: "https://0227.vercel.app/",
   },
@@ -37,10 +35,10 @@ export const projects =  [
 
 export const skills = [
     {
-      title: " ",
+      title: "to-do-list ",
       subtitle: "List",
       description:
-        "",
+        "Lista de tareas para ordenar de acuerdo a los objetivos propuestos",
       image: "./project-1.gif",
       link: "https://to-do-list-juancmb27.vercel.app/",
     },
@@ -48,7 +46,7 @@ export const skills = [
       title: "Pokedex",
       subtitle: "Poke",
       description:
-        "",
+        "Aca se pueden identificar todos los pokemones y sus evoluciones",
       image: "./project-2.gif",
       link: "https://b12-pokedex.netlify.app/",
     },
@@ -56,7 +54,7 @@ export const skills = [
       title: "Web page",
       subtitle: "Rafa",
       description:
-        "",
+        "Web page destinada a Rafael Nadal, deportista y ganador en todos los ambitos",
       image: "./project-3.gif",
       link: "https://0227.vercel.app/",
     },
